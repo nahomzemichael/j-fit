@@ -1,6 +1,5 @@
-import React from 'react';
 import './app.css'
-import Hero from './components/hero'
+import Hero from './components/Hero'
 import Exercises from './components/Exercises'
 import SideBar from './components/sideBar'
 import { useState } from 'react';
